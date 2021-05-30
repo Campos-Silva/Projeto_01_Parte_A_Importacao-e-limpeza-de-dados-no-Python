@@ -14,7 +14,7 @@ Esse projeto tem o objetivo de analisar duas etapas que são essenciais em qualq
 
 - Dividi em partes para tornar mais didático a sequência lógica das etapas e também para facilitar o acesso de etapas especificas por quem quiser observar como é realizada uma etapa específica via linguagem Python.
 
-- Assim, esse projeto em particular focará apenas na parte inicial. Aqui abordarei como importar e ter um entendimento prévio de quais são seus dadose como podemos realizar a limpeza dos dados.
+- Assim, esse projeto em particular focará apenas na parte inicial. Aqui abordarei como importar e ter um entendimento prévio de quais são seus dados e como podemos realizar a limpeza dos dados.
 
 - Logo abaixo há links para acesso aos outros projetos. 
 
