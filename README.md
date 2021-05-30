@@ -24,9 +24,13 @@ O dataset que irei trabalhar nesse conjunto de projetos é o oriundo do seguinte
 
 Esse dataset possui dados de carros alugados o qual permite fazer diversas análises em Data Science, inclusive criar modelos preditivos de machine learning, através de regressão linear.
 
-## Pergunta do Dataset
+## Pergunta central para esse dataset:
 
-- O valor de preço de venda final desses carros usados está relacionada aos seus atributos?
+- O valor de preço de venda ddos carros usados está relacionada as suas características?
+
+## Hipótese para esse dataset:
+
+- O valor de preço de venda dos carros usados é influenciado por suas caracteristicas. 
 
 ## Arquivos do "Projeto 01 - Importação e limpeza de dados no Python"
 
