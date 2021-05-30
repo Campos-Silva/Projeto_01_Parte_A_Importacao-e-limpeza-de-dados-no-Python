@@ -4,15 +4,15 @@
 
 Esse projeto tem o objetivo de analisar duas etapas que são essenciais em qualquer trabalho de Data Science que são:
  
-(1) a Importação e conhecimento prévio sobre um conjunto de dados;
+(1) Importação e conhecimento prévio sobre um conjunto de dados;
 
-(2) e Limpeza dos dados / Pré-processamento.
+(2) Limpeza dos dados / Pré-processamento.
 
 ## Informações sobre o projeto
 
-- O "Projeto 01 - Importação e limpeza de dados no Python" faz parte de um conjunto de projetos, no qual demonstro como realizar todas as etapas de um trabalho de DataScience, por meio da linguagem Python, desde o seu começo, iniciando aqui pela resolução desses objetivos, até o desenvolvimento do modelo de Machine Learning e sua verificação final.
+- O "Projeto 01 - Importação e limpeza de dados no Python" faz parte de um conjunto de projetos, no qual demonstro como realizar todas as etapas de um trabalho de DataScience, por meio da linguagem Python, desde o seu começo, iniciando pela resolução desses objetivos, até o desenvolvimento do Modelo de Machine Learning e sua verificação final.
 
-- Optei por dividir em partes para tornar mais didático a sequência lógica das etapas e também para facilitar o acesso de etapas especificas por quem quiser observar como é realizada via linguagem Python.
+- Dividi em partes para tornar mais didático a sequência lógica das etapas e também para facilitar o acesso de etapas especificas por quem quiser observar como é realizada uma etapa específica via linguagem Python.
 
 - Assim, esse projeto em particular focará apenas na parte inicial. Aqui abordarei como importar e ter um entendimento prévio de quais são seus dadose como podemos realizar a limpeza dos dados.
 
