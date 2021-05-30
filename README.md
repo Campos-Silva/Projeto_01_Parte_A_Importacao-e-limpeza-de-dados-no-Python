@@ -30,7 +30,9 @@ Esse dataset possui dados de carros alugados o qual permite fazer diversas anál
 
 ## Arquivos desse projeto 01
 
-- Clique [aqui](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/exploracao_de_dados_numericos_n_1.ipynb) para visualizar o script e os gráficos do Python: 
+- Clique [aqui](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/exploracao_de_dados_numericos_n_1.ipynb) para visualizar o script do projeto:
+
+- Clique [aqui](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/exploracao_de_dados_numericos_n_1.ipynb) para visualizar o Dataset: 
 
 ## Bibliotecas utilizadas nesse projeto:
 
