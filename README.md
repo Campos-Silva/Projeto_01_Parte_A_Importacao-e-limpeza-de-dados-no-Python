@@ -30,7 +30,7 @@ Esse dataset possui dados de carros alugados o qual permite fazer diversas anál
 
 ## Arquivos desse projeto 01
 
-- Clique [aqui](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/exploracao_de_dados_numericos_n_1.ipynb) para visualizar o script do projeto:
+- Clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/Car%20details%20v3.csv) para visualizar o script do projeto:
 
 - Clique [aqui](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/exploracao_de_dados_numericos_n_1.ipynb) para visualizar o Dataset: 
 
@@ -48,4 +48,4 @@ Lucas Andrei Campos-Silva
 
 - link para meu portifólio de projetos em Data Science: https://github.com/Campos-Silva
 - e-mail para contato: andrei.10@hotmail.com
-- linkedIn:https://www.linkedin.com/in/lucas-andrei-campos-silva/
+- linkedIn: https://www.linkedin.com/in/lucas-andrei-campos-silva/
