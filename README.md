@@ -1,5 +1,4 @@
-
-Projeto 01 - Importação e limpeza de dados no Python
+#Projeto 01 - Importação e limpeza de dados no Python
 
 Objetivos desse projeto:
 
@@ -33,3 +32,13 @@ pandas
 numpy
 
 missingno
+
+#Autor:
+
+- Lucas Andrei Campos-Silva
+
+link para meu portifólio de projetos em Data Science: https://github.com/Campos-Silva
+e-mail para contato: andrei.10@hotmail.com
+linkedIn:https://www.linkedin.com/in/lucas-andrei-campos-silva/
+
+## Clique [aqui](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/exploracao_de_dados_numericos_n_1.ipynb) para visualizar o script e os gráficos do Python: 
