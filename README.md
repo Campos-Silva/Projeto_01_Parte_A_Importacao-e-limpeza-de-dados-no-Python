@@ -28,7 +28,7 @@ Esse dataset possui dados de carros alugados o qual permite fazer diversas anál
 
 - O valor de preço de venda final desses carros usados está relacionada aos seus atributos?
 
-## Arquivos desse projeto 01
+## Arquivos do "Projeto 01 - Importação e limpeza de dados no Python"
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/Car%20details%20v3.csv) para visualizar o script do projeto:
 
