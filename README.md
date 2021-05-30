@@ -5,6 +5,7 @@ Objetivos do projeto:
 - demonstrar como são realizadas:
  
 (1) a Importação e conhecimento prévio sobre um conjunto de dados;
+
 (2) e Limpeza dos dados / Pré-processamento.
 
 # Detalhamento do Dataset estudado
