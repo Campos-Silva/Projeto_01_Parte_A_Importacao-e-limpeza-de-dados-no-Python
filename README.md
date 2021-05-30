@@ -33,9 +33,9 @@ numpy
 
 missingno
 
-#Autor:
+# Autor:
 
-- Lucas Andrei Campos-Silva
+Lucas Andrei Campos-Silva
 
 link para meu portifólio de projetos em Data Science: https://github.com/Campos-Silva
 e-mail para contato: andrei.10@hotmail.com
