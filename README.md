@@ -26,11 +26,11 @@ Esse dataset possui dados de carros alugados o qual permite fazer diversas anál
 
 ## Pergunta central do dataset:
 
-- O valor de preço de venda ddos carros usados está relacionada as suas características?
+- O valor de preço de venda dos carros usados está relacionada as suas características?
 
 ## Hipótese do dataset:
 
-- O valor de preço de venda dos carros usados é influenciado por suas caracteristicas. 
+- O valor de preço de venda dos carros usados é influenciado por suas características. 
 
 ## Arquivos do "Projeto 01 - Importação e limpeza de dados no Python"
 
