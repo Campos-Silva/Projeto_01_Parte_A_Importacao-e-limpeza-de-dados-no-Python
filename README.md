@@ -24,11 +24,11 @@ O dataset que irei trabalhar nesse conjunto de projetos é o oriundo do seguinte
 
 Esse dataset possui dados de carros alugados o qual permite fazer diversas análises em Data Science, inclusive criar modelos preditivos de machine learning, através de regressão linear.
 
-## Pergunta central para esse dataset:
+## Pergunta central do dataset:
 
 - O valor de preço de venda ddos carros usados está relacionada as suas características?
 
-## Hipótese para esse dataset:
+## Hipótese do dataset:
 
 - O valor de preço de venda dos carros usados é influenciado por suas caracteristicas. 
 
