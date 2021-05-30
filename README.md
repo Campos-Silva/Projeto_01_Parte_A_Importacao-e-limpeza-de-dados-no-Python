@@ -1,6 +1,6 @@
 # Projeto 01 - Importação e limpeza de dados no Python
 
-Objetivos do projeto:
+## Objetivos do projeto:
 
 - demonstrar como são realizadas:
  
@@ -8,22 +8,21 @@ Objetivos do projeto:
 
 (2) e Limpeza dos dados / Pré-processamento.
 
-# Detalhamento do Dataset estudado
+## Detalhamento do Dataset estudado
 
 Para atingir esses objetivos irei trabalhar com um Dataset oriundo do site a seguir: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
 Esse dataset possui dados de carros alugados o qual permite fazer diversas análises em Data Science, inclusive criar modelos preditivos de machine learning, através de regressão linear.
 
-# Arquivos
-
-- Clique [aqui](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/exploracao_de_dados_numericos_n_1.ipynb) para visualizar o script e os gráficos do Python: 
-
-
-# Pergunta do Dataset
+## Pergunta do Dataset
 
 - O valor de preço de venda final desses carros usados está relacionada aos seus atributos?
 
-# Bibliotecas utilizadas nesse projeto:
+## Arquivos
+
+- Clique [aqui](https://github.com/Campos-Silva/exploracao_de_dados_numericos_n_1/blob/main/exploracao_de_dados_numericos_n_1.ipynb) para visualizar o script e os gráficos do Python: 
+
+## Bibliotecas utilizadas nesse projeto:
 
 - pandas
 
@@ -31,7 +30,7 @@ Esse dataset possui dados de carros alugados o qual permite fazer diversas anál
 
 - missingno
 
-# Autor:
+## Autor:
 
 Lucas Andrei Campos-Silva
 
