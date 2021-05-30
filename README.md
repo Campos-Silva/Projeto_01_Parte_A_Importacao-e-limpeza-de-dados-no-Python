@@ -34,9 +34,9 @@ Esse dataset possui dados de carros alugados o qual permite fazer diversas anál
 
 ## Arquivos do "Projeto 01 - Importação e limpeza de dados no Python"
 
-- Clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/Projeto_01_Importa%C3%A7%C3%A3o_e_limpeza_de_dados_no_Python.ipynb) para visualizar o script do projeto:
+- Clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/Projeto_01_Importa%C3%A7%C3%A3o_e_limpeza_de_dados_no_Python.ipynb) para visualizar o script do projeto.
 
-- Clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/Car%20details%20v3.csv) para visualizar o Dataset: 
+- Clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/Car%20details%20v3.csv) para visualizar o Dataset.
 
 ## Bibliotecas utilizadas nesse projeto:
 
