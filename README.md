@@ -46,6 +46,8 @@ Esse dataset possui dados de carros alugados o qual permite fazer diversas anál
 
 - missingno
 
+- matplotlib
+
 ## Autor:
 
 Lucas Andrei Campos-Silva
