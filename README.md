@@ -1,6 +1,11 @@
-# Projeto 01 - Importação e limpeza de dados no Python
 
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/graficos_gerados.jpg)
+
+________________________________________________________________________________________________________________________________________________
+
+# Projeto 01 - Importação e limpeza de dados no Python
+
+________________________________________________________________________________________________________________________________________________
 
 ## Objetivos do projeto:
 
