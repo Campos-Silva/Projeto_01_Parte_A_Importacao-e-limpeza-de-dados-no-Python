@@ -1,5 +1,7 @@
 # Projeto 01 - Importação e limpeza de dados no Python
 
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/graficos_gerados.jpg)
+
 ## Objetivos do projeto:
 
 Esse projeto tem o objetivo de analisar duas etapas que são essenciais em qualquer trabalho de Data Science que são:
