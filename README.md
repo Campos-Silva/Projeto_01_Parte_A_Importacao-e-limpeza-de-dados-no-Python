@@ -3,25 +3,23 @@
 
 ________________________________________________________________________________________________________________________________________________
 
-# “Projeto 01 Aplicação de conhecimentos em Data Science/Python:
-
-# Validação de dados para venda de veículos usados
-
-## Parte A - Importação e limpeza de dados no Python
+# Projeto 01 Importacao e limpeza de dados no Python
 
 ________________________________________________________________________________________________________________________________________________
+
+# Detalhamento do Projeto 01
 
 Esse projeto tem como base responder a seguinte pergunta norteadora:
 
 - “Qual o maior preço de venda possível que posso aplicar a um veículo usado baseado em suas características, e que ele possa ser certamente vendido?”.
 
-- Uma pergunta assim, é normalmente realizada na área de mercado de compra e venda de veículos, como em concessionárias e por pessoas individuais que realizam tal ação.
+Uma pergunta assim, é normalmente realizada na área de mercado de compra e venda de veículos, como em concessionárias e por pessoas individuais que realizam tal ação.
 
-- Essa pergunta pode ser respondida com o uso de conhecimentos em Data Science e, a partir de um banco de dados prévios com preços de venda de veículos usados, no qual será utilizado na construção de modelos preditivos via Machine Learning. É com essa base que esse projeto irá se alicerçar, no qual irei construir modelos preditivos de preço de venda de veículos usados baseado em determinadas características do próprio veículo. 
+Essa pergunta pode ser respondida com o uso de conhecimentos em Data Science e, a partir de um banco de dados prévios com preços de venda de veículos usados, no qual será utilizado na construção de modelos preditivos via Machine Learning. É com essa base que esse projeto irá se alicerçar, no qual irei construir modelos preditivos de preço de venda de veículos usados baseado em determinadas características do próprio veículo. 
 
-- Esse projeto também tem o objetivo de demonstrar como posso realizar todas as etapas de um projeto de Data Science, iniciando com a importação e limpeza dos dados e finalizando com a validação dos modelos preditivos.
+Esse projeto também tem o objetivo de demonstrar como posso realizar todas as etapas de um projeto de Data Science, iniciando com a importação e limpeza dos dados e finalizando com a validação dos modelos preditivos.
 
-- Assim, para ficar mais didático e também facilitar o acesso por uma pessoa que queira achar uma etapa em particular eu optei por dividir esse projeto em três partes específicas descritas a seguir:
+Assim, para ficar mais didático e também facilitar o acesso por uma pessoa que queira achar uma etapa em particular eu optei por dividir esse projeto em três partes específicas descritas a seguir:
 
 - Parte A: Importação e limpeza dos dados 
 
