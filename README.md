@@ -3,43 +3,58 @@
 
 ________________________________________________________________________________________________________________________________________________
 
-# Projeto 01 - Importação e limpeza de dados no Python
+# “Projeto 01 Aplicação de conhecimentos em Data Science/Python:
+
+# Validação de dados para venda de veículos usados
+
+## Parte A - Importação e limpeza de dados no Python
 
 ________________________________________________________________________________________________________________________________________________
 
-## Objetivos do projeto:
+Esse projeto tem como base responder a seguinte pergunta norteadora:
 
-Esse projeto tem o objetivo de analisar duas etapas que são essenciais em qualquer trabalho de Data Science que são:
+- “Qual o maior preço de venda possível que posso aplicar a um veículo usado baseado em suas características, e que ele possa ser certamente vendido?”.
+
+- Uma pergunta assim, é normalmente realizada na área de mercado de compra e venda de veículos, como em concessionárias e por pessoas individuais que realizam tal ação.
+
+- Essa pergunta pode ser respondida com o uso de conhecimentos em Data Science e, a partir de um banco de dados prévios com preços de venda de veículos usados, no qual será utilizado na construção de modelos preditivos via Machine Learning. É com essa base que esse projeto irá se alicerçar, no qual irei construir modelos preditivos de preço de venda de veículos usados baseado em determinadas características do próprio veículo. 
+
+- Esse projeto também tem o objetivo de demonstrar como posso realizar todas as etapas de um projeto de Data Science, iniciando com a importação e limpeza dos dados e finalizando com a validação dos modelos preditivos.
+
+- Assim, para ficar mais didático e também facilitar o acesso por uma pessoa que queira achar uma etapa em particular eu optei por dividir esse projeto em três partes específicas descritas a seguir:
+
+- Parte A: Importação e limpeza dos dados 
+
+- Parte B: Exploração dos dados
+
+- Parte C: Construção e avaliação dos modelos preditivos
+
+
+## Objetivos da Parte A - Importação e limpeza de dados no Python
+
+Essa parte A tem o objetivo de analisar duas etapas que são essenciais em qualquer trabalho de Data Science que são:
  
 (1) Importação e conhecimento prévio sobre um conjunto de dados;
 
 (2) Limpeza dos dados / Pré-processamento.
 
-## Informações sobre o projeto
 
-- O "Projeto 01 - Importação e limpeza de dados no Python" faz parte de um conjunto de projetos, no qual demonstro como realizar todas as etapas de um trabalho de DataScience, por meio da linguagem Python, desde o seu começo, iniciando pela resolução desses objetivos, até o desenvolvimento do Modelo de Machine Learning e sua verificação final.
-
-- Dividi em partes para tornar mais didático a sequência lógica das etapas e também para facilitar o acesso de etapas especificas por quem quiser observar como é realizada uma etapa específica via linguagem Python.
-
-- Assim, esse projeto em particular focará apenas na parte inicial. Aqui abordarei como importar e ter um entendimento prévio de quais são seus dados e como podemos realizar a limpeza dos dados.
-
-- Logo abaixo há links para acesso aos outros projetos. 
 
 ## Detalhamento do Dataset estudado
 
 O dataset que irei trabalhar nesse conjunto de projetos é o oriundo do seguinte site do Kaggle: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
-Esse dataset possui dados de carros alugados o qual permite fazer diversas análises em Data Science, inclusive criar modelos preditivos de machine learning, através de regressão linear.
+Esse dataset possui dados de veículos usados, o qual permite fazer diversas análises em Data Science, inclusive criar modelos preditivos de machine learning, através de regressão linear.
 
 ## Pergunta central do dataset:
 
-- O valor de preço de venda dos carros usados está relacionada as suas características?
+- “Qual o maior preço de venda possível que posso aplicar a um veículo usado baseado em suas características, e que ele possa ser certamente vendido?”.
 
 ## Hipótese do dataset:
 
 - O valor de preço de venda dos carros usados é influenciado por suas características. 
 
-## Arquivos do "Projeto 01 - Importação e limpeza de dados no Python"
+## Arquivos da Parte A: Importação e limpeza dos dados 
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/Projeto_01_Importa%C3%A7%C3%A3o_e_limpeza_de_dados_no_Python.ipynb) para visualizar o script do projeto.
 
