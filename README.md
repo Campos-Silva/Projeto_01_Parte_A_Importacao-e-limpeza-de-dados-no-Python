@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 Esse projeto tem como base responder a seguinte pergunta norteadora:
 
-- “Qual o maior preço de venda possível que posso aplicar a um veículo usado baseado em suas características, e que ele possa ser certamente vendido?”.
+- “Qual o maior preço de venda possível que posso aplicar a um veículo usado baseado em uma determinada característica, e que ele possa ser certamente vendido?”.
 
 Uma pergunta assim, é normalmente realizada na área de mercado de compra e venda de veículos, como em concessionárias e por pessoas individuais que realizam tal ação.
 
