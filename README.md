@@ -15,17 +15,17 @@ Esse projeto tem como base responder a seguinte pergunta norteadora:
 
 Uma pergunta assim, é normalmente realizada na área de mercado de compra e venda de veículos, como em concessionárias e por pessoas individuais que realizam tal ação.
 
-Essa pergunta pode ser respondida com o uso de conhecimentos em Data Science e, a partir de um banco de dados prévios com preços de venda de veículos usados, no qual será utilizado na construção de modelos preditivos via Machine Learning. É com essa base que esse projeto irá se alicerçar, no qual irei construir modelos preditivos de preço de venda de veículos usados baseado em determinadas características do próprio veículo. 
+Essa pergunta pode ser respondida com o uso de conhecimentos em Data Science e, a partir de um banco de dados prévios com preços de venda de veículos usados, no qual será utilizado na construção de modelos preditivos via Machine Learning. É com essa base que esse projeto irá se alicerçar, no qual irei construir modelos preditivos de preço de venda de veículos baseado em determinadas características do próprio veículo. 
 
 Esse projeto também tem o objetivo de demonstrar como posso realizar todas as etapas de um projeto de Data Science, iniciando com a importação e limpeza dos dados e finalizando com a validação dos modelos preditivos.
 
 Assim, para ficar mais didático e também facilitar o acesso por uma pessoa que queira achar uma etapa em particular eu optei por dividir esse projeto em três partes específicas descritas a seguir:
 
-- Parte A: Importação e limpeza dos dados 
+- Parte A: Importação e limpeza dos dados (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python) para ir a parte A).
 
-- Parte B: Exploração dos dados
+- Parte B: Exploração dos dados (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python) para ir a parte B).
 
-- Parte C: Construção e avaliação dos modelos preditivos
+- Parte C: Construção e avaliação dos modelos preditivos (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python) para ir a parte C).
 
 
 ## Objetivos da Parte A - Importação e limpeza de dados no Python
