@@ -25,7 +25,7 @@ Assim, para ficar mais didático e também facilitar o acesso por uma pessoa que
 
 - Parte B: Exploração dos dados (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python) para ir a parte B).
 
-- Parte C: Construção e avaliação dos modelos preditivos (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python) para ir a parte C).
+- Parte C: Construção e avaliação de Modelos de Machine Learning (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python) para ir a parte C).
 
 
 ## Objetivos da Parte A - Importação e limpeza de dados no Python
