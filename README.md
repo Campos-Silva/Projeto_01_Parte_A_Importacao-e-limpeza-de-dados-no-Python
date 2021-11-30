@@ -3,7 +3,7 @@
 
 ________________________________________________________________________________________________________________________________________________
 
-# P1 - Parte A: Importacao e limpeza de dados no Python
+# P1 - Parte A: Importação e limpeza de dados no Python
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -17,6 +17,8 @@ Essa parte A tem o objetivo de analisar duas etapas que são essenciais em qualq
 (2) Limpeza dos dados / Pré-processamento.
 
 ## Arquivos da Parte A:
+
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/icones_v_1.png)
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/projeto_1_parte_a.ipynb) para visualizar o script do projeto.
 
