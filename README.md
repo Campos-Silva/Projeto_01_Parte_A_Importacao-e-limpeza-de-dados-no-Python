@@ -7,11 +7,11 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________
 
-# Detalhamento do Projeto 01
+# Detalhamento do "Projeto 1"
 
-Esse projeto tem como base responder a seguinte pergunta norteadora:
+Esse projeto tem como base responder a seguinte pergunta:
 
-- “Qual o maior preço de venda possível que posso aplicar a um veículo usado baseado em uma determinada característica, e que ele possa ser certamente vendido?”.
+- “Qual o preço que posso dar a um veículo usado baseado em suas características?"
 
 Uma pergunta assim, é normalmente realizada na área de mercado de compra e venda de veículos, como em concessionárias e por pessoas individuais que realizam tal ação.
 
@@ -70,8 +70,13 @@ Esse dataset possui dados de veículos usados, o qual permite fazer diversas an�
 
 ## Autor:
 
-Lucas Andrei Campos-Silva
+<img  src="https://raw.githubusercontent.com/Campos-Silva/Campos-Silva/main/perfil_lucas_andrei_campos_silva.png" width="80" alt="cognitiveclass.ai logo" align="left" /> 
 
-- link para meu portifólio de projetos em Data Science: https://github.com/Campos-Silva
-- e-mail para contato: andrei.10@hotmail.com
-- linkedIn: https://www.linkedin.com/in/lucas-andrei-campos-silva/
+###&nbsp;&nbsp;Lucas Andrei Campos-Siva
+
+<p>
+&nbsp;&nbsp;Cientista de Dados / Business Intelligence / Analista de Dados<br/>
+&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/lucas-andrei-campos-silva/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: andrei.10@hotmail.com<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Campos-Silva
+</p>
