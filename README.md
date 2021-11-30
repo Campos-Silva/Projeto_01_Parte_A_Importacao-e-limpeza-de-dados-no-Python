@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/icones_v_1.png)
 
-- Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/projeto_1_parte_a.ipynb) para visualizar o script do projeto.
+- Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/projeto_1_parte_a.ipynb) para visualizar o script da parte A.
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/Car%20details%20v3.csv) para visualizar o Dataset.
 
