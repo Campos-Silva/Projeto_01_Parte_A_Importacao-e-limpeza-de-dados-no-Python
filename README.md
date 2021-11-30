@@ -24,6 +24,10 @@ ________________________________________________________________________________
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/Car%20details%20v3.csv) para visualizar o Dataset.
 
+## Parte B
+
+- Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python) para ir até a parte B ("Exploração de dados").
+
 ## Autor:
 
 <img  src="https://raw.githubusercontent.com/Campos-Silva/Campos-Silva/main/perfil_lucas_andrei_campos_silva.png" width="80" alt="cognitiveclass.ai logo" align="left" /> 
