@@ -72,7 +72,7 @@ Esse dataset possui dados de ve√≠culos usados, o qual permite fazer diversas an√
 
 <img  src="https://raw.githubusercontent.com/Campos-Silva/Campos-Silva/main/perfil_lucas_andrei_campos_silva.png" width="80" alt="cognitiveclass.ai logo" align="left" /> 
 
-###&nbsp;&nbsp;Lucas Andrei Campos-Siva
+### &nbsp;&nbsp;Lucas Andrei Campos-Siva
 
 <p>
 &nbsp;&nbsp;Cientista de Dados / Business Intelligence / Analista de Dados<br/>
