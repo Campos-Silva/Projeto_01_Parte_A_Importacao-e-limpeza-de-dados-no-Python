@@ -8,15 +8,15 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 
 
-## Objetivos da Parte A - Importação e limpeza de dados no Python
+## Objetivos da Parte A
 
-Essa parte A tem o objetivo de analisar duas etapas que são essenciais em qualquer trabalho de Data Science que são:
+- Analisar duas etapas que são essenciais em qualquer trabalho de Data Science que são:
  
 (1) Importação e conhecimento prévio sobre um conjunto de dados;
 
 (2) Limpeza dos dados / Pré-processamento.
 
-## Arquivos da Parte A:
+## Arquivos:
 
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/icones_v_1.png)
 
