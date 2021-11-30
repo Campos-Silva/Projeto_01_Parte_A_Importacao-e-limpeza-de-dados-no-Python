@@ -1,5 +1,5 @@
 
-![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python/blob/main/graficos_gerados.jpg)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/main/imagem_de_apresentacao_v_2.png)
 
 ________________________________________________________________________________________________________________________________________________
 
